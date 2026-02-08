@@ -8,16 +8,16 @@
 
 - 🛠️ Atuo como **Product Engineer**, fazendo design e desenvolvimento end-to-end
 - 🧩 Experiência com Design System, documentação e handoffs claros
-
-## 🔧 Stack
-- HTML / SCSS 
-- JavaScript / TypeScript
-- Node.js / Express
-- React / Tailwind
-- Meteor.js
-- MongoDB
-- WordPress / PHP
-- Git / GitHub
+- ✨ Como front end/Full stack, já trabalhei com as seguintes tecnologias:
+ 
+  - HTML / SCSS 
+  - JavaScript / TypeScript
+  - Node.js / Express
+  - React / Tailwind
+  - Meteor.js
+  - MongoDB
+  - WordPress / PHP
+  - Git / GitHub
 
 
  
