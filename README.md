@@ -24,7 +24,7 @@
 
   <p align="left">  <a href="https://www.linkedin.com/in/flavialbraz/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ height="20"></a>
-  <a href="https://www.instagram.com/alessadev/" alt="Instagram">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="20"/></a> <a href="https://www.behance.net/flavialbraz" alt="flavialbraz">  <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"  height="20" /></a>  <a href="mailto:flaviabrazx@gmail.com" alt="flavialbraz">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="20" /></a>
+  <a href="https://www.behance.net/flavialbraz" alt="flavialbraz">  <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"  height="20" /></a>  <a href="mailto:flaviabrazx@gmail.com" alt="flavialbraz">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="20" /></a>
 </p>  
 <br><br><br>  
  
